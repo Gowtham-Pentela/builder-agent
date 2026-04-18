@@ -176,7 +176,7 @@ pip install -r requirements.txt
 ### 4. Install Ollama
 
 Download from:
-👉 [https://ollama.com](https://ollama.com)
+[https://ollama.com](https://ollama.com)
 
 Then run:
 
@@ -193,7 +193,7 @@ streamlit run app.py
 ```
 
 Open:
-👉 [http://localhost:8501](http://localhost:8501)
+[http://localhost:8501](http://localhost:8501)
 
 ---
 
@@ -234,6 +234,7 @@ Dakotah Rice,Harper,CEO,https://harper.ai,,Hiring curious builders,YC founder hi
 
 ## Author
 
-Built by Gowtham
+Built by [Gowtham](https://github.com/Gowtham-Pentela)
+
 Focused on building AI-powered systems for real-world workflows.
 
