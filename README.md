@@ -150,7 +150,7 @@ Upload → Score → Filter → Generate → Edit → Mark Ready → Export
 ### 1. Clone repo
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/Gowtham-Pentela/builder-agent.git>
 cd builder-agent
 ```
 
