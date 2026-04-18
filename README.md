@@ -226,6 +226,13 @@ Dakotah Rice,Harper,CEO,https://harper.ai,,Hiring curious builders,YC founder hi
 
 ---
 
+## Results
+
+![App Screenshot](result1.png)
+![App Screenshot](result2.png)
+![App Screenshot](result3.png)
+![App Screenshot](result4.png)
+
 ## Demo
 
 (Insert Loom link here)
